@@ -33,4 +33,3 @@ A game developer from Turkey.
  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> </a>
  <a href="https://www.opengl.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://hb.imgix.net/0826accb04b88d10c32a27bf885d7…ompress,format&s=f6ca78e27eebc03a8e75971fdd38797e" width="40" height="40"/> 
